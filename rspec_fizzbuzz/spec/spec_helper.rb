@@ -1,0 +1,1 @@
+require_relative '../fizzbuzzattempt1/fizzbuzz'
